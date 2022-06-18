@@ -1,5 +1,5 @@
-bin/
-.idea/
-assets/
-par.iml
-note
+dictionaries/1.2mb.txt.bench
+dictionaries/1.2mb.txt.decompressed
+dictionaries/1.5mb.txt.bench
+dictionaries/1.5mb.txt.decompressed
+DataCompressionPar.pro.user

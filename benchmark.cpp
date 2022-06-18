@@ -60,14 +60,8 @@ void Benchmark::on_startButton_clicked()
         case 1:
             dictName = dictPath + "1.5mb.bmp";
             break;
-        case 2:
-            dictName = dictPath + "25mb.pdf";
-            break;
-        case 3:
-            dictName = dictPath + "32mb.pdf";
-            break;
         default:
-            dictName = dictPath + "25mb.pdf";
+            dictName = dictPath + "1.2mb.pdf";
             break;
         }
     }

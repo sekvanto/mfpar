@@ -45,16 +45,6 @@
      <string>1.5 MB</string>
     </property>
    </item>
-   <item>
-    <property name="text">
-     <string>25 MB</string>
-    </property>
-   </item>
-   <item>
-    <property name="text">
-     <string>32 MB</string>
-    </property>
-   </item>
   </widget>
   <widget class="QPushButton" name="chooseTestFileButton">
    <property name="geometry">
