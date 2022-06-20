@@ -7,28 +7,35 @@ It's a simple data compression program, which supports a set of compression algo
 * Paq9a
 
 This is how the main window looks like:
+
 ![Main window](media/mfpar.png)
 
 Dark mode is also available:
+
 ![Dark mode](media/dark_theme.png)
 
 The main window displays buttons for operations such as compression, decompression, benchmark, preferences, history edit and it displays operations history as well, which is sortable by date or name, can be expanded and collapsed.
 
 Here is the example of compression:
+
 ![Compression](media/compress.png)
 
 Here is the example of decompression:
+
 ![Decompression](media/decompress.png)
 
 Benchmark:
+
 ![Benchmark](media/benchmark.png)
 
 Preferences:
+
 ![Preferences](media/preferences.png)
 
 Preferences are stored in Qt .ini config file, and it's possible to set defaults for such options as light/dark theme, history entries displayed, preferred compression algorithm etc.
 
 History edit:
+
 ![History edit](media/historyedit.png)
 
 History is stored in MySQL database. It's possible to remove some of the entries or clear the whole history of operations.
