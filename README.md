@@ -18,7 +18,7 @@ The main window displays buttons for operations such as compression, decompressi
 
 Here is the example of compression:
 
-![Compression](media/compress.png) ![Decompression](media/decompress.png)
+![Compression](media/compress.png)
 
 Here is the example of decompression:
 
